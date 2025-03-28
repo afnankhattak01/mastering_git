@@ -1,1 +1,1 @@
-console.log("server is up and running at port 3000!");
+console.log("this is a server.js file");
