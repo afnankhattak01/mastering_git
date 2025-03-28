@@ -1,4 +1,4 @@
-
+## Hi just a reminder, you are awesome!!
 ## Welcome to git!
 
 ## this is a test file here!
