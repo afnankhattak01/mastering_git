@@ -8,9 +8,17 @@ const PORT = 3000;
 const express = require("express");
 const app = express();
 
-app.get("/", (req, res) => {
-  console.log("hello world!");
-});
+
+app.get('/',(req,res)=>{
+    console.log('hello world!');
+})
+
+
+app.get('/users',(req,res)=>{
+    console.log('getting usersss!');
+})
+
+
 
 app.listen(PORT, () => {
   console.log("Server is up and running!!");
